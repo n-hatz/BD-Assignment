@@ -16,7 +16,7 @@
    ```
    spark-submit csv2parquet.py
    ```
-7.  Για να τρέξει κάποιο αρχείο κώδικα
+7.  Για να τρέξει κάποιο αρχείο κώδικα:
    ```
    spark-submit <file_name>.py
    ```
